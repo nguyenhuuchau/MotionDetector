@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Motion Detector</string>
+    <string name="client_id">3395899160-eomlg5gdgtvh0pf0io2aqa9jq4ng76lq.apps.googleusercontent.com</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bgssetting">BGSSetting</string>
+    <string name="setting_title">Setting</string>
+    <string name="system_setting">Cài đặt hệ thống</string>
+    <string name="motiondetect_alarm_method_select">Cảnh báo khi phát hiện chuyển động</string>
+    <string name="motiondetect_threshold">Ngưỡng cảnh báo chuyển động</string>
+    <string name="enable_detect">Sử dụng nhận diện</string>
+    <string name="detect_threshold">Ngưỡng nhận diện</string>
+    <string name="detect_alarm_method_select">Cảnh báo khi phát hiện</string>
+    <string name="bgs_setting">Cài đặt Background Subtraction</string>
+    <string name="detect_setting">Cài đặt nhận diện</string>
+    <string name="alarm_setting">Cài đặt cảnh báo</string>
+    <string name="alarm_sound">Âm báo</string>
+    <string name="sms_time_interval">Thời gian giữa các lần nhắn tin</string>
+    <string name="storage_setting">Cài đặt lưu trữ</string>
+    <string name="image_storage">Lưu ảnh</string>
+    <string name="image_storage_time_interval">Thời gian giữa các lần chụp ảnh</string>
+    <string name="user_setting">Cài đặt người dùng</string>
+    <string name="user_phone_number">Số điện thoại</string>
+    <string name="user_mail_add">Email</string>
+    <string name="camera_name">Tên camera</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="bgs_method">Phương thức BGS</string>
+    <string name="enable_threshold">Sử dụng ngưỡng</string>
+    <string name="detect_method">Detect Method</string>
+    <string name="camera_select">Chọn camera</string>
+    <string name="wowza_server_setting">Cài đặt Wowza server</string>
+    <string name="wowza_stream_enable">Stream video to Wowza Server</string>
+    <string name="wowza_server_address">Địa chỉ IP</string>
+    <string name="wowza_server_port">Cổng</string>
+    <string name="wowza_server_app_name">Application</string>
+    <string name="wowza_server_app_username">User name</string>
+    <string name="wowza_server_app_password">Password</string>
+    <string name="title_activity_wowza_setting">Wowza Stream Setting</string>
+    <string name="title_activity_set_phone_number">Thêm số điện thoại</string>
+
+</resources>

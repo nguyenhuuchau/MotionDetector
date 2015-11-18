@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_methods">
+        <item >Sound Alarm</item>
+        <item >SMS Alarm</item>
+        <item >None</item>
+    </string-array>
+    <string-array name="bgs_methods">
+        <item >Default</item>
+        <item >Static Frame Difference</item>
+        <item >Mixture of Gaussian 1</item>
+        <item >Mixture of Gaussian 2</item>
+        <item >Frame Diffrence</item>
+        <item >Weighted Moving Variance</item>
+    </string-array>
+    <string-array name="alarm_method_values">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+    <string-array name="bgs_method_values">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+    </string-array>
+    <string-array name="detect_methods">
+        <item >Face Detect</item>
+        <item >Full Body Detect</item>
+    </string-array>
+    <string-array name="detect_method_values">
+        <item >0</item>
+        <item >1</item>
+    </string-array>
+    <string-array name="cameras">
+        <item >Camera trước</item>
+        <item >Camera sau</item>
+    </string-array>
+    <string-array name="camera_values">
+        <item >0</item>
+        <item >1</item>
+    </string-array>
+    <string-array name="alarm_sounds">
+        <item >Default</item>
+        <item >Dog bark</item>
+    </string-array>
+    <string-array name="alarm_sound_values">
+        <item >0</item>
+        <item >1</item>
+    </string-array>
+    <string-array name="sms_time_intervals">
+        <item >5 phút</item>
+        <item >10 phút</item>
+        <item >15 phút</item>
+        <item >20 phút</item>
+        <item >25 phút</item>
+        <item >30 phút</item>
+    </string-array>
+    <string-array name="sms_time_interval_values">
+        <item >5</item>
+        <item >10</item>
+        <item >15</item>
+        <item >20</item>
+        <item >25</item>
+        <item >30</item>
+    </string-array>
+    <string-array name="image_storage_time_intervals">
+        <item >1 phút</item>
+        <item >2 phút</item>
+        <item >3 phút</item>
+        <item >4 phút</item>
+        <item >5 phút</item>
+        <item >10 phút</item>
+        <item >15 phút</item>
+        <item >20 phút</item>
+        <item >25 phút</item>
+        <item >39 phút</item>
+    </string-array>
+    <string-array name="image_storage_time_interval_values">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >10</item>
+        <item >15</item>
+        <item >20</item>
+        <item >25</item>
+        <item >39</item>
+    </string-array>
+</resources>

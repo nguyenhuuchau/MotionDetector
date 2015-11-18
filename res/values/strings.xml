@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Motion Detector</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bgssetting">BGS Setting</string>
+    <string name="setting_title">Settings</string>
+    <string name="system_setting">System Settings</string>
+    <string name="motiondetect_alarm_method_select">Alarm when motion detected</string>
+    <string name="motiondetect_threshold">Motion detect threshold</string>
+    <string name="enable_detect">Use Haar-Cascade detect</string>
+    <string name="detect_threshold">Haar-Cascade detect threshold</string>
+    <string name="detect_alarm_method_select">Alarm</string>
+    <string name="bgs_setting">Background Subtraction settings</string>
+    <string name="detect_setting">Haar-Cascade Settings</string>
+    <string name="alarm_setting">Alarm Settings</string>
+    <string name="alarm_sound">Sound</string>
+    <string name="sms_time_interval">Time interval between each SMS</string>
+    <string name="storage_setting">Storage Settings</string>
+    <string name="image_storage">Image Storage</string>
+    <string name="image_storage_time_interval">Time interval between each image</string>
+    <string name="user_setting">User Settings</string>
+    <string name="user_phone_number">Phone number</string>
+    <string name="user_mail_add">Email</string>
+    <string name="camera_name">Camera Name</string>
+    <string name="title_activity_setting">Settings</string>
+    <string name="bgs_method">BGS Method</string>
+    <string name="enable_threshold">Enable BGS threshold</string>
+    <string name="detect_method">Haar-Cascade set</string>
+    <string name="camera_select">Select Camera</string>
+    <string name="wowza_server_setting">Wowza server settings</string>
+    <string name="wowza_stream_enable">Stream video to Wowza Server</string>
+    <string name="wowza_server_address">IP Address</string>
+    <string name="wowza_server_port">Port</string>
+    <string name="wowza_server_app_name">Application</string>
+    <string name="wowza_server_app_username">User name</string>
+    <string name="wowza_server_app_password">Password</string>
+    <string name="title_activity_wowza_setting">Wowza Stream Setting</string>
+    <string name="title_activity_set_phone_number">Set phone number</string>
+
+</resources>

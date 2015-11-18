@@ -1,0 +1,11 @@
+package com.doantotnghiep.motiondetector;
+
+public enum BGSMethod
+{
+	BGS_DEFAULT,
+	STATIC_FRAME_DIFFERENCE,
+	MIXTURE_OF_GAUSSIAN_1,
+	MIXTURE_OF_GAUSSIAN_2,
+	FRAME_DIFFERENCE,
+	WEIGHTED_MOVING_VARIANCE
+}
